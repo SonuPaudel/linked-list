@@ -56,7 +56,6 @@ public class SingleLinkAddAtFirst {
         s.addNode(22);
         s.addNode(38);
         s.addNodeFirst(14);
-      
         s.display();
         
     }
