@@ -53,11 +53,9 @@ public class SingleLinkAddAtFirst {
         SingleLinkAddAtFirst s= new SingleLinkAddAtFirst();
         s.addNode(12);
         s.addNode(34);
-        s.addNode(10);
+        s.addNode(22);
         s.addNode(38);
-        s.addNode(19);
-        s.addNode(94);
-        s.addNodeFirst(99);
+        s.addNodeFirst(14);
       
         s.display();
         
