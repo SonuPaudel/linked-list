@@ -61,12 +61,11 @@ public class DeleteFromLast {
     }
     public static void main(String[]args){
         DeleteFromLast s= new DeleteFromLast();
-        s.addNode(12);
+        s.addNode(2);
         s.addNode(34);
         s.addNode(10);
         s.addNode(38);
         s.addNode(19);
-        s.addNode(94);
         s.delete();
         s.display();
         
